@@ -1,5 +1,11 @@
 # LostLink
 
+USER & PASSWORD 
+Admin: nayaksangeetha12@gmail.com
+(pw :123456)
+Normal User: meethi@anurag.edu
+(pw :12345678)
+
 ## Campus Lost and Found Management System
 
 LostLink is a web-based Lost and Found Management System designed for educational institutions. The system provides a centralized platform where students can report lost and found items, search for matching items, and submit claims for items they believe belong to them.
