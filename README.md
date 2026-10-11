@@ -2,9 +2,11 @@
 
 USER & PASSWORD 
 
-Admin: nayaksangeetha12@gmail.com
+Admin: 
+nayaksangeetha12@gmail.com
 (pw :123456)
-Normal User: meethi@anurag.edu
+Normal User: 
+@anurag.edu
 (pw :12345678)
 
 ## Campus Lost and Found Management System
