@@ -1,13 +1,13 @@
 # LostLink
 
-USER & PASSWORD 
+👨‍💻 Admin Account
+* Email: nayaksangeetha12@gmail.com
+* Password: 123456
 
-Admin: 
-nayaksangeetha12@gmail.com
-(pw :123456)
-Normal User: 
-@anurag.edu
-(pw :12345678)
+👤 Normal User Account
+
+* Email: meethi@anurag.edu
+* Password: 12345678
 
 ## Campus Lost and Found Management System
 
